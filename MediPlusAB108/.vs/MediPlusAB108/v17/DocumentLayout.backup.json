@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\viewmodels\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:viewmodels\\slider\\slidercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:areas\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\data\\mediplusab108context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:data\\mediplusab108context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\mediplusab108.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:mediplusab108.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|c:\\users\\i novbe\\desktop\\sumaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\mediplusab108\\migrations\\20241204100739_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D530A4-4079-4E1F-823E-D53EAA63B62C}|MediPlusAB108.csproj|solutionrelative:migrations\\20241204100739_start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T09:38:40.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SliderCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\ViewModels\\Slider\\SliderCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Slider\\SliderCreateVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\ViewModels\\Slider\\SliderCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Slider\\SliderCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:17:21.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:11:18.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:16:02.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241204100739_start.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Migrations\\20241204100739_start.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241204100739_start.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Migrations\\20241204100739_start.cs",
+              "RelativeToolTip": "Migrations\\20241204100739_start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:07:39.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T09:40:22.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T09:40:07.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:39:04.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:38:00.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Models\\Slider.cs",
+              "RelativeToolTip": "Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:37:39.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MediPlusAB108Context.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Data\\MediPlusAB108Context.cs",
+              "RelativeDocumentMoniker": "Data\\MediPlusAB108Context.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Data\\MediPlusAB108Context.cs",
+              "RelativeToolTip": "Data\\MediPlusAB108Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:33:09.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T09:30:18.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T09:29:26.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:29:05.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-04T09:27:53.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MediPlusAB108.csproj",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\MediPlusAB108.csproj",
+              "RelativeDocumentMoniker": "MediPlusAB108.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\MediPlusAB108.csproj",
+              "RelativeToolTip": "MediPlusAB108.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T09:27:20.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBoBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T09:07:59.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T09:03:49.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:03:02.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\SUMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\MediPlusAB108\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T08:53:40.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

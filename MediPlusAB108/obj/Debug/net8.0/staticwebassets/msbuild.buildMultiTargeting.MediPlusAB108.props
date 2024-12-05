@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MediPlusAB108.props" />
+</Project>
